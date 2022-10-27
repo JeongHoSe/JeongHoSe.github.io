@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Jeong Ho Se
+title: Student, Hallym University
+email: elso01@naver.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-4319-4009
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: http://34.64.80.100:8000/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
