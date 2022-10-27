@@ -89,14 +89,19 @@ content:
         sub_title: 2000.01.24 ~ 
         caption: 출생(2000.01.24)
         quote: >
-          Short institution or course description (optional)
+          출생(2000.01.24)
+	  대화초등학교(2007 ~ 2012)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      저는 책을 좋아합니다 또한 남의 눈치를 보고 수동적인 경항이 있지만
-      타인보다 나에게 집중하고 공격적인 삶의 태도를 지향하고 있습니다. 
+      저는 책을 좋아합니다.
+      또한 남의 눈치를 보고 수동적인 경항이 있지만
+      타인보다 나에게 집중하고
+      공격적인 삶의 태도를 지향하고 있습니다. 
+      
+
       현재 바뀌는 과정 중에 있습니다. 
 
       저의 성장을 지켜봐주세요! 감사합니다.
