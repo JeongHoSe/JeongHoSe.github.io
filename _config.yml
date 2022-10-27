@@ -88,8 +88,6 @@ content:
         title: 나의 일대기
         sub_title: 2000.01.24 ~ 
         caption: 출생(2000.01.24)
-        대화초등학교(2007 ~ 2012)
-	         대화중학교(2013 ~ 2015)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
