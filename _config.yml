@@ -54,11 +54,11 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
  저는 한림대학교에 재학중이며 빅데이터를 전공하고 있습니다. 저의 행보를 지켜봐주세요.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  2022년 목표 리스트
+    - 믿을 수 있는 사람 되기
+    - 4.5(달성)
+    - 연애
+    - 재활 성공
 
 content:
   - title: Projects # Title for the section
@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: 미래의 프로젝트
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -78,16 +78,16 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          향후 프로젝트를 구성해서 해당 부분을 채울 예정입니다.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          창업 위주로 생각하고 있습니다. 
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: 나의 일대기
+        sub_title: 2000.01.24 ~ 2022.10.27
+        caption: 출생 (2000.01.24)
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
