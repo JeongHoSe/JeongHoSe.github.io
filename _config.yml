@@ -83,7 +83,7 @@ content:
           창업 위주로 생각하고 있습니다. 
   - title: Education
     layout: list
-    content:
+    content: | # this will include new lines to allow paragraphs
          출생(2000.01.24)
          대화초등학교(2007 ~ 2012)
          대화중학교(2013 ~ 2015)
