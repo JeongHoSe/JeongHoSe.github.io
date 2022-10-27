@@ -81,26 +81,15 @@ content:
           향후 프로젝트를 구성해서 해당 부분을 채울 예정입니다.
         description: | # this will include new lines to allow paragraphs
           창업 위주로 생각하고 있습니다. 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: 나의 일대기
-        sub_title: 2000.01.24 ~ 2022.10.27
-        caption: 출생 (2000.01.24)
-	         대화초등학교(2007 ~ 2012)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: 나의 일대기
+        sub_title: 2000.01.24 ~ 
+        caption: 출생(2000.01.24)
+        대화초등학교(2007 ~ 2012)
+	         대화중학교(2013 ~ 2015)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
