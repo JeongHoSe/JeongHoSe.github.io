@@ -82,22 +82,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           창업 위주로 생각하고 있습니다. 
   - title: Education
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
-         출생(2000.01.24)
+         -나의 일대기-
+
+	 출생(2000.01.24)
          대화초등학교(2007 ~ 2012)
          대화중학교(2013 ~ 2015)
          대화고등학교(2016 ~ 2018)
          한림대학교 재학(2019)
          Republic of Korea Army (2020 ~ 2021)
          한림대학교 재학(2022 ~)
-      - layout: top-right
-        title: 나의 일대기
-        sub_title: 2000.01.24 ~ 
-        caption: 출생(2000.01.24)
-        
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
